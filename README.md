@@ -4,6 +4,10 @@ This repository contains a Geographic Information System (GIS) project developed
 
 ---
 
+### My Role & Contributions
+* **Regional Research (Africa):** Collected, verified, and structured ecological and spatial data regarding grazing pressures, desertification, and habitat fragmentation across critical African ecosystems (including the Sahel, East African Savannas, and the Congo Basin).
+* **Storytelling & Content Design:** Developed the narrative structure, textual analyses, and thematic flow of the interactive web presentation to effectively communicate complex spatial and environmental relationships.
+
 ## About the Project
 
 **The Relationship Between Livestock Farming and Biodiversity** is an interactive web project and geographic analysis developed with **ArcGIS Experience Builder** and **ArcGIS StoryMaps**. The project explores the complex connection between grazing practices, livestock production, and ecosystem health, contrasting global critical zones of ecological pressure with sustainable models where pastoral farming actively supports biodiversity.
