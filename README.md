@@ -50,7 +50,7 @@ The project covers key critical zones and case studies across five major regions
 ---
 
 ## Project Link
-* You can explore the interactive web presentation and ArcGIS StoryMap [here](https://storymaps.arcgis.com/stories/c0adf5769ec4b9abe5da91f613c6890).
+* You can explore the interactive web presentation and ArcGIS StoryMap [here](https://arcg.is/595Pr1).
 
 ## Interactive Applications & Materials
 
