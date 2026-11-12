@@ -49,5 +49,8 @@ The project covers key critical zones and case studies across five major regions
 - **Microsoft Excel / Python** – For spatial data processing and coordinate conversion (DD to DMS).
 ---
 
+### Project Link
+* You can explore the interactive web presentation and ArcGIS StoryMap here: [https://storymaps.arcgis.com/stories/c0adf57697ec4b9abe5da91f613c6890]
+
 *This project was developed as part of school and extracurricular initiatives in the field of geospatial technologies for a contest in Bulgaria so the content above is in Bulgarian.*
 
