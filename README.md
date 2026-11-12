@@ -49,16 +49,17 @@ The project covers key critical zones and case studies across five major regions
 - **Microsoft Excel / Python** – For spatial data processing and coordinate conversion (DD to DMS).
 ---
 
-### Project Link
-* You can explore the interactive web presentation and ArcGIS StoryMap here: [https://storymaps.arcgis.com/stories/c0adf57697ec4b9abe5da91f613c6890]
+## Project Link
+* You can explore the interactive web presentation and ArcGIS StoryMap [here](https://storymaps.arcgis.com/stories/c0adf5769ec4b9abe5da91f613c6890).
 
 ## Interactive Applications & Materials
 
 You can explore other interactive elements of the project here:
-* **ArcGIS Experience Builder App:** [(https://experience.arcgis.com/experience/694ef5df9340484e8443864d25e9ad0a)]
-* **ArcGIS Interactive Map:** [https://22163011aegsof.maps.arcgis.com/apps/mapviewer/index.html?webmap=aa215c78e3a647ea95047bef3a664667]
-* **Mini-Game - Save Biodiversity:** [https://simeontzvetkov.github.io/GIS-project/games/world_mission.html]
-* **Mini-Game - Serengeti Ranger:** [(https://simeontzvetkov.github.io/GIS-project/games/world_ranger.html)]
+
+* **ArcGIS Experience Builder App:** [Open Experience Builder Application](https://experience.arcgis.com/experience/694ef5df9340484e8443864d25e9ad0a)
+* **ArcGIS Interactive Map:** [View Interactive Map](https://22163011aegsof.maps.arcgis.com/apps/mapviewer/index.html?webmap=aa215c78e3a647ea95047bef3a664667)
+* **Mini-Game - Save Biodiversity:** [Play Save Biodiversity](https://simeontzvetkov.github.io/GIS-project/games/world_mission.html)
+* **Mini-Game - Serengeti Ranger:** [Play Serengeti Ranger](https://simeontzvetkov.github.io/GIS-project/games/world_ranger.html)
 
 *This project was developed as part of school and extracurricular initiatives in the field of geospatial technologies for a contest in Bulgaria so the content above is in Bulgarian.*
 
