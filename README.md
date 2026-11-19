@@ -1,12 +1,12 @@
 # GIS Data Project (MON Competition)
 
-This repository contains a Geographic Information System (GIS) project developed using **ArcGIS** for a competition organised by the Ministry of Education and Science (MON).
+This repository contains a Geographic Information System (GIS) project developed using **ArcGIS** for a competition organised by the Ministry of Education and Science (MON). Awarded 1st palce nationally for the "Student team" category.
 
 ---
 
 ### My Role & Contributions
 * **Regional Research (Africa):** Collected, verified, and structured ecological and spatial data regarding grazing pressures, desertification, and habitat fragmentation across critical African ecosystems (including the Sahel, East African Savannas, and the Congo Basin).
-* **Storytelling & Content Design:** Developed the narrative structure, textual analyses, and thematic flow of the interactive web presentation to effectively communicate complex spatial and environmental relationships.
+* **Storytelling and Content Design:** Developed the narrative structure, textual analyses, and thematic flow of the interactive web presentation to effectively communicate complex spatial and environmental relationships.
 
 ## About the Project
 
